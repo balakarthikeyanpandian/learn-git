@@ -7,5 +7,6 @@ public class Dec {
         String secondName = "Guru Bala BG";
 
         String school = "DTMHSS";
+        String college = "REC";
     }
 }

@@ -4,7 +4,6 @@ public class Dec {
         int age = 10;
         String name = "Bala";
         int yearOfBirth = 1997;
-        String secondName = "Bala Guru";
-
+        String secondName = "Guru Bala BG";
     }
 }

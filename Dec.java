@@ -9,5 +9,6 @@ public class Dec {
         String school = "DTMHSS";
         String college = "REC";
         String mobileNumber = "9841516442";
+        String modeOfTransport = "Public";
     }
 }

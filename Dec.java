@@ -5,5 +5,7 @@ public class Dec {
         String name = "Bala";
         int yearOfBirth = 1997;
         String secondName = "Guru Bala BG";
+
+        String school = "DTMHSS";
     }
 }
